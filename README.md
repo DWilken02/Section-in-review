@@ -5,7 +5,6 @@
 ## Technologies Used
 
 *HTML
-*css
 *markdown
 *Bootstrap
 
